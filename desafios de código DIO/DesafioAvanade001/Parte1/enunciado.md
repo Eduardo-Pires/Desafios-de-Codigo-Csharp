@@ -53,30 +53,18 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
     <th>Saída</th>
   </tr>
   <tr>
-    <td>1000</td>
+    <td>1000 <br> 200</td>
     <td>Saque realizado com sucesso. Novo saldo: 800</td>
   </tr>
   <tr>
-    <td>200</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1500</td>
+    <td>1500 <br> 1800</td>
     <td>Saldo insuficiente. Saque não realizado!</td>
   </tr>
+  
   <tr>
-    <td>1800</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>300</td>
+    <td>300 <br> 200</td>
     <td>Saque realizado com sucesso. Novo saldo: 100</td>
   </tr>
-  <tr>
-    <td>200</td>
-    <td></td>
-  </tr>
+  
 </table>
-                                            |
-
 </div>
