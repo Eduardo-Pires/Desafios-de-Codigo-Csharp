@@ -46,13 +46,37 @@ Se o saque não for possível devido a saldo insuficiente, exibir a mensagem "Sa
 
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
+<div align=center>
+<table>
+  <tr>
+    <th>Entrada</th>
+    <th>Saída</th>
+  </tr>
+  <tr>
+    <td>1000</td>
+    <td>Saque realizado com sucesso. Novo saldo: 800</td>
+  </tr>
+  <tr>
+    <td>200</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1500</td>
+    <td>Saldo insuficiente. Saque não realizado!</td>
+  </tr>
+  <tr>
+    <td>1800</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>300</td>
+    <td>Saque realizado com sucesso. Novo saldo: 100</td>
+  </tr>
+  <tr>
+    <td>200</td>
+    <td></td>
+  </tr>
+</table>
+                                            |
 
-| Entrada | Saída                                       |
-|---------|---------------------------------------------|
-| 1000    | Saque realizado com sucesso. Novo saldo: 800|
-| 200     |                                             |
-| 1500    | Saldo insuficiente. Saque não realizado!   |
-| 1800    |                                             |
-| 300     | Saque realizado com sucesso. Novo saldo: 100|
-| 200     |                                             |
-
+</div>
