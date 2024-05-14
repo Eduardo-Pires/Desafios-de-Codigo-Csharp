@@ -11,7 +11,7 @@ obj/
 /wwwroot/node_modules
 
 ### VisualStudioCode ###
-*/.vscode/*
+**/.vscode/*
 
 # Local History for Visual Studio Code
 .history/
