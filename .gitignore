@@ -12,7 +12,8 @@ obj/
 
 ### VisualStudioCode ###
 .vscode/*
-
+.vscode/tasks.json
+.vscode/launch.json
 
 # Local History for Visual Studio Code
 .history/
