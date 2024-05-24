@@ -51,4 +51,8 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
   
 </table>
 </div>
+<div align="center">
 
+[Enunciado retirado de bootcamp da plataforma DIO®](https://web.dio.me)
+
+</div>

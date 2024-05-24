@@ -42,4 +42,8 @@ Seu programa deve retornar uma mensagem indicando se a senha fornecida pelo usuÃ
   </tr>
 </table>
 </div>
+<div align="center">
 
+[Enunciado retirado de bootcamp da plataforma DIOÂ®](https://web.dio.me)
+
+</div>
