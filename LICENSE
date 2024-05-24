@@ -1,4 +1,4 @@
-MIT License
+MIT License - Modified
 
 Copyright (c) 2024 Eduardo Pires
 
@@ -11,6 +11,12 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+Additionally, if the Software, material or repository includes any coding challenges
+or exercise statements from the DIO platform, proper credit must be given to DIO and
+the person distributing the Software must review and comply with 
+the intellectual property policies of DIO before posting any materials derived 
+from their platform.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
